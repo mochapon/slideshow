@@ -21,6 +21,7 @@ header {
   justify-content: center; /* flexボックス内の配置 */
   align-items: center;
   padding-top: 6px;
+  padding-top: 20px;
   padding-bottom: 10px;
 }
 
