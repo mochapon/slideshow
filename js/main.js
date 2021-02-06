@@ -2,14 +2,14 @@
 
 {
   const images = [
-    'img/pic00.jpg',
-    'img/pic01.jpg',
-    'img/pic02.jpg',
-    'img/pic03.jpg',
-    'img/pic04.jpg',
-    'img/pic05.jpg',
-    'img/pic06.jpg',
-    'img/pic07.jpg',
+    'img/pic00.png',
+    'img/pic01.png',
+    'img/pic02.png',
+    'img/pic03.png',
+    'img/pic04.png',
+    'img/pic05.png',
+    'img/pic06.png',
+    'img/pic07.png',
   ];
   let currentIndex = 0;
 
